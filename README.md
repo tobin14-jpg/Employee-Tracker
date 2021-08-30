@@ -81,4 +81,4 @@ THEN I am prompted to select an employee to update and their new role and this i
 [Shaun Tobin](https://github.com/tobin14-jpg)
 
 ## Contact
-✉️ Contact me with any questions: [email](mailto:shauntobin88@gmail.com) , [GitHub](https://github.cotobin14-jpg)<br />
+✉️ Contact me with any questions: [email](mailto:shauntobin88@gmail.com) , [GitHub](https://github.com/tobin14-jpg)<br />
