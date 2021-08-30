@@ -25,7 +25,7 @@
   
 💻 Below is a gif showing the functionality of the application:
   
-![Employee Tracker](\Employee-Tracker\assets)
+![Employee Tracker] <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   
 🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1ElgA3hl-JVqxRmRBiH2c_ELklWqv6rvc/view)
   
