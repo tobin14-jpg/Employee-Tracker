@@ -23,9 +23,10 @@
   
 🔍 A node.js app that allows you to track all employees in a database, whilst also using inquirer to prompt the user of anything they want shown or any updates to be made. Including departments and roles within the company.
   
-💻 Below is a gif showing the functionality of the application:
+💻 Below is a screenshot showing the functionality of the application:
   
-![Employee Tracker] <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+![Employee Tracker] ![image](https://user-images.githubusercontent.com/83910221/131329391-ea9eed33-04ec-4dfc-9435-691b26a6e2b2.png)
+
   
 🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1ElgA3hl-JVqxRmRBiH2c_ELklWqv6rvc/view)
   
