@@ -25,7 +25,7 @@
   
 💻 Below is a screenshot showing the functionality of the application:
   
-![Employee Tracker] ![image](https://user-images.githubusercontent.com/83910221/131329391-ea9eed33-04ec-4dfc-9435-691b26a6e2b2.png)
+![image](https://user-images.githubusercontent.com/83910221/131329391-ea9eed33-04ec-4dfc-9435-691b26a6e2b2.png)
 
   
 🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1ElgA3hl-JVqxRmRBiH2c_ELklWqv6rvc/view)
